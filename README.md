@@ -7,4 +7,4 @@ I am not sure why I need to manually inject the content-script, even thought the
 
 I changed the name of service-worker into extension worker not to get name-conflicts with other service workers when building PWA features in the popup
 
-(remote name changed)
+(remote name changed  2)
